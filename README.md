@@ -20,5 +20,5 @@ En la carpeta correspondiente a este punto se encuentran clases que simulan el f
 
 3. Implemente una interfaz de comunicación confiable con sockets TCP. 
 
-Las clases en la carpeta Ejercicio 3 simulan l funcionamiento de un cliente y un servidor con un protocolo de petición y
+Las clases en la carpeta Ejercicio 3 simulan el funcionamiento de un cliente y un servidor con un protocolo de petición y
 respuesta de 3 vías cuando se las ejecuta. Funcionan con sockets TCP.
